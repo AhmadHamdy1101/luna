@@ -377,7 +377,8 @@ header nav ul li a:hover{
 @media screen and (max-width:500px) {
     .we-do .container .do-line {
         width: 267px;
-        left: 5%;}
+        left: 5%;
+Margin-bottom:20px;}
     .we-do .container .cards {
         flex-direction: column;}    
     .we-do .container .cards .card {
