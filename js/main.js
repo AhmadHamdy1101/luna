@@ -22,7 +22,7 @@ const swiper = new Swiper('.swiper-container', {
     speed: 400,
     loop: true,}
     );
-
+    AOS.init();
     $("body").niceScroll({
       cursorcolor: "#3a1984",
       cursorborder: "none",
